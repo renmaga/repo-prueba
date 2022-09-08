@@ -1,1 +1,5 @@
-*.cvs
+*.csv
+*.pdf
+*.html
+*.dat
+
